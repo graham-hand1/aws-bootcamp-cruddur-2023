@@ -16,6 +16,4 @@ Below is the link to the diagram in lucidchart. I will also embed the image (whe
 ![cruddur logical diagram](Cruddur_Logical_Diagram.jpeg)
 
 
-<img src="Cruddur_Logical_Diagram.jpeg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-
 Well this has turned into a bit of a dogs breakfast!
