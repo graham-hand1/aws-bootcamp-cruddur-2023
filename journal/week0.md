@@ -1,8 +1,13 @@
 # Week 0 — Billing and Architecture
+
+Date: 13/02/2023
+
 1. Participated in the live stream.
 2. Watched the supplementary videos
 3. Created the conceptual and logical diagrams
 4. Mucked around with the AWS account and setup budgets and billing alerts.  This is an account I have had for a few years so some weird stuff may happen. Nice to see AWS have added organisations.
+
+Date: 14/02/2023
 
 Below is the link to the diagram in lucidchart. I will also embed the image (when I figure out how I can do that which shouldn't be that hard).
 
@@ -12,3 +17,5 @@ Below is the link to the diagram in lucidchart. I will also embed the image (whe
 
 
 <img src="Cruddur_Logical_Diagram.jpeg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
+Well this has turned into a bit of a dogs breakfast!
