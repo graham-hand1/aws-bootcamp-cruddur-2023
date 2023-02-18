@@ -27,3 +27,5 @@ Cruddur conceptual diagram (sorry no napkins!)
 ![cruddur logical diagram](Cruddur_Conceptual_Design.jpeg)
 
 ![Cruddur Conceptual Diagram](https://lucid.app/lucidchart/a7cf12fe-8b0c-4e9f-8d37-93efabfabf5e/edit?viewport_loc=119%2C-252%2C2219%2C1108%2C0_0&invitationId=inv_503ffda2-ab26-4548-888b-aa0c378c4120)
+
+Deleted the previously created budget and billing alarms and set them up again using the aws cli.
