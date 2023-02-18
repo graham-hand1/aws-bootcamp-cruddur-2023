@@ -21,4 +21,4 @@ Not sure why, but for some reason it took a few days for the image to show up.  
 
 Cruddur conceptual diagram (sorry no napkins!)
 
-![cruddur logical diagram](Cruddur_Logical_Diagram.jpeg)
+![cruddur logical diagram](Cruddur_Conceptual_Design.jpeg)
